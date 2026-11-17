@@ -1,0 +1,428 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://myinvitations.io/?iw_preview=whjGQwzdqQU4xxJg8ljzw5K0WR9rlalH",
+  "seed_origin": "https://myinvitations.io:443",
+  "seed_host": "myinvitations.io",
+  "final_url": "https://myinvitations.io/?iw_preview=whjGQwzdqQU4xxJg8ljzw5K0WR9rlalH",
+  "final_host": "myinvitations.io",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-11-17T16:34:24.484148Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 82,
+    "total_asset_bytes": 12190370
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 96,
+    "assets_included": 82,
+    "assets_excluded": 14
+  },
+  "excluded": [
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2710%27 height=%276%27%3E%3Cpath fill=%27%23581b1f%27 d=%27M0 0h10L5 6z%27/%3E%3C/svg%3E",
+      "reason": "invalid_scheme"
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27160%27 height=%27160%27%3E%3Cfilter id=%27a%27%3E%3CfeTurbulence baseFrequency=%27.85%27 numOctaves=%272%27 stitchTiles=%27stitch%27 type=%27fractalNoise%27/%3E%3CfeColorMatrix values=%270 0 0 0 .55 0 0 0 0 .42 0 0 0 0 .3 0 0 0 .08 0%27/%3E%3C/filter%3E%3Crect width=%27100%25%27 height=%27100%25%27 filter=%27url%28%23a%29%27/%3E%3C/svg%3E",
+      "reason": "invalid_scheme"
+    },
+    {
+      "url": "https://assets.pinterest.com/js/pinit.js?ver=1.4.19",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700;800&family=Cormorant+Garamond:wght@300;400;500;600;700;800&family=Playfair+Display:wght@300;400;500;600;700;800&family=Jost:wght@300;400;500;600;700;800&family=Great+Vibes:wght@300;400;500;600;700;800&family=Cinzel:wght@300;400;500;600;700;800&display=swap",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/../images/layers-2x.8f2c4d11.png",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/../images/layers.416d9136.png",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/../images/marker-icon.2b3e1faf.png",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/woocommerce/assets/fonts/star.eot",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/css/../fonts/wprmenu.eot?p8o4s0=",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/css/../fonts/wprmenu.svg?p8o4s0=",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/css/../fonts/wprmenu.ttf?p8o4s0=",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/css/../fonts/wprmenu.woff?p8o4s0=",
+      "reason": "missing_content"
+    },
+    {
+      "url": "https://unpkg.com/meta-capi-param-builder-clientjs/dist/clientParamBuilder.bundle.js?ver=3.7.0",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=1504170944445527&ev=PageView&noscript=1",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://myinvitations.io/wp-content/plugins/facebook-for-woocommerce/assets/js/facebook-for-woocommerce-signals.js?ver=3.7.0": {
+      "local_path": "assets/3ef5a95de660403a179602c4a58ebc283e85ed76650ff049988dc0fc3f504ecd.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/facebook-for-woocommerce/assets/js/frontend/pixel-events.js?ver=3.7.0": {
+      "local_path": "assets/a7aa12699e3079088140b334e479fa878f7f0864df671dacaf7296b390de6483.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/animations.js?ver=1793879563": {
+      "local_path": "assets/449f8fd7100740076c7fdd167be0e6f078d41db1bc1cbeb95bbfc938d92ce3ec.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/event-banana-leaf.js?ver=1793879563": {
+      "local_path": "assets/863608a436a1361c6d1568c3a76bc3ddfacfe1f31d6c8cf81e3c3ba137c29898.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/fireworks.js?ver=1791980610": {
+      "local_path": "assets/6fa97a1bde6e6cb7718aefb5f517e3839ce58e6f1397d2222aaff39754def776.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/gallery-coverflow.js?ver=1793005329": {
+      "local_path": "assets/9e6fe9316fa79ab23379ce377aa72e83aeb546d640c227b4ef74703fa7db1eea.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/guest-rsvp-map.js?ver=1793885296": {
+      "local_path": "assets/fe7ccc096ae096c4e678a6a5083f2ab4f5dea81a3e0ac2b31f20caf029eb67b7.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/guest-rsvp.js?ver=1793879563": {
+      "local_path": "assets/067eb52ede1a4d280ef479a4b4fc13c461369f74c424631fad54610511cf72fc.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/hero-video-no-cover.js?ver=1793299098": {
+      "local_path": "assets/d222e932a5e15cd277775f27b0d5629661892a8ff935aad2c4b89eda20865e1a.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/music-toggle.js?ver=1793558679": {
+      "local_path": "assets/5a5afe01829e4c523f79d915082256995d642d4c7f234574333bc7e7dcd7f690.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/frontend/scratch-gold.js?ver=1792869465": {
+      "local_path": "assets/419cf0b36d93747cd8224f715250f92adf07e77de3b622eb96a3e7de41fd9dbe.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/invitation-management/build/rsvp/guest-rsvp/style-index.css?ver=1793879563": {
+      "local_path": "assets/432b1fffdadb24ee280f0d6d9cf3ca9465b9e43572fe244f31a04f7bad1bbec2.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/plugins/multiauth-login/assets/js/mal-forms.js?ver=1778914570": {
+      "local_path": "assets/2e4d3d7eb6927239eec6d5828139e97ea1bf447d8067aa97434a099506f565ae.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/multiauth-login/assets/js/mal-modal.js?ver=1776792237": {
+      "local_path": "assets/f265f3b722e1692232e2081ba7ea12aabe082716e31fa58d2b045191de6dd020.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/multiauth-login/assets/js/mal-otp.js?ver=1777790558": {
+      "local_path": "assets/51d76dfcbeb20f14ba8fae52c1fe26dde8a1f5c113db6532e8ba924dd1d287a0.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/myio-intent-popups/assets/intent-popup.min.js?ver=1787919922": {
+      "local_path": "assets/3e2535930a4add02536a39ee8d2bce54b06a2b9bfc59c939d8b9413375266663.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/myio-smart-search/assets/js/smart-search.min.js?ver=1788189671": {
+      "local_path": "assets/f5dab3e84cdaf5dfa59361489dc40d76a3143adc98bc31f17a847b3a840e7df7.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/pinterest-for-woocommerce/assets/css/frontend/pinterest-for-woocommerce-pins.min.css?ver=1.4.19": {
+      "local_path": "assets/e5da933dff278c1a0c125b6df09766f8f2ce82b4e8593f2d86023933a08f2cf2.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce-google-adwords-conversion-tracking-tag/js/public/wpm-public.p1.min.js?ver=1.49.1": {
+      "local_path": "assets/00bc3b84044075a2ccde68e74845d9beb7ded1f91e797241e97df5433ec3f930.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/fonts/star.svg": {
+      "local_path": "assets/2eb6c3604c3046661c3013d8ebc0e74428f03336500ea599b79c8ab56337f42e.svg",
+      "content_type": "image/svg+xml"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/fonts/star.ttf": {
+      "local_path": "assets/f8013885c947a7d72df4397ddbbe611fb9ac251622cf658e60ceb25a83c23c8d.bin",
+      "content_type": "application/octet-stream"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/fonts/star.woff": {
+      "local_path": "assets/d87af7a2528beb59a990e0414df87b4e4115f77f3a4a750f6616ff189b70345a.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.1.2": {
+      "local_path": "assets/fca8dd4ee9c93f33dc3149e2c78aec8a28c54036faaf19c7b0ac9ca32293c070.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.1.2": {
+      "local_path": "assets/0eb862a5891526d089b727fdfa30222cca4b4d75b5835727bf57df17436256f6.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.1.2": {
+      "local_path": "assets/a83bd8463b628e661482010504cbb69143b13461a0178cb4f7b929aa28efa96f.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.1.2": {
+      "local_path": "assets/d151f8c0b2659cfb63704d68654ad8d9437ae9da4410536f63ddec21689a0620.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.1.2": {
+      "local_path": "assets/8b083f64f2e9e8ac445c730dfce7013cc6449ce155fd1c2f42b60edba4ecb4b1.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.1.2": {
+      "local_path": "assets/c50a0b33030ba0ec063be642c297f48af94359e2222ff140817248d591faf837.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/css/wpr-hamburger.css?ver=1739414331": {
+      "local_path": "assets/eb42efa994a334969ae2df68e7e996aba99c1c2816dbd50c5741822d0132c960.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/assets/js/wprmenu.js?ver=1790519674": {
+      "local_path": "assets/8c62314b320a5ac614213b08d152dd109670c54e66e04df856ab406312b4c9b5.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/inc/assets/icons/fonts/icomoon.eot?5ujmx2=": {
+      "local_path": "assets/a628951cf1aabcb2bee079a9a643623e8aef42be44037182531955a7aa91e6b0.bin",
+      "content_type": "application/vnd.ms-fontobject"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/inc/assets/icons/fonts/icomoon.svg?5ujmx2=": {
+      "local_path": "assets/4c5b8f3e6c273e4d59e6177ce0f7afdaf47705f6629577e452d6dc9281207360.svg",
+      "content_type": "image/svg+xml"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/inc/assets/icons/fonts/icomoon.ttf?5ujmx2=": {
+      "local_path": "assets/c106dd62e3f2eea5dc7ebecf8f85ce1a7e8909162c287986327730325cf6dec3.bin",
+      "content_type": "application/octet-stream"
+    },
+    "https://myinvitations.io/wp-content/plugins/wp-responsive-menu/inc/assets/icons/fonts/icomoon.woff?5ujmx2=": {
+      "local_path": "assets/9b94f1039c0e20173b1c862e74001fa75daa4dd2b40a650e55272313cea1f486.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/assets/css/mi-site-custom.min.css?ver=1791127750": {
+      "local_path": "assets/5462a6b3d33bc25046ffcaab30c5ce8b2a4a0a3a2e4bacbf98a7c950f3cf5671.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Bold.woff": {
+      "local_path": "assets/32e6450b649487b3371d1d3c8b76f355ff025f1ad1114b0dcf94c15a013de0dd.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Bold.woff2": {
+      "local_path": "assets/81781639e80b1db0df1c78c24213ed13b9df1e798dbecc991b1d5ac64963bd09.bin",
+      "content_type": "font/woff2"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Medium.woff": {
+      "local_path": "assets/3f476c6c9fbb83a8a250c5e49d9b653809058bf7e52c8a93807373f8eb8d5eed.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Medium.woff2": {
+      "local_path": "assets/7b34a8e96e8da704b88bffb6bfd85a9fc162d97f06a9d131924c3331d7390d5c.bin",
+      "content_type": "font/woff2"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Regular.woff": {
+      "local_path": "assets/36eedfc21ded6ed2a2d2f33d6894cfa99138dd8b1ec2a86359a37ffb4c7c3ac8.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-Regular.woff2": {
+      "local_path": "assets/8b6930f117f51d540e81459204323d8111b3ee02e9c0e3dac595d9d6b6780547.bin",
+      "content_type": "font/woff2"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-SemiBold.woff": {
+      "local_path": "assets/9b94b240c6ad04a947fc4306322055a74ba1bfc47862e151b8eb234f29f500bd.bin",
+      "content_type": "font/woff"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/fonts/Poppins-SemiBold.woff2": {
+      "local_path": "assets/eba54248f2258cc394d5695bbde0e1717a9a9b10c99ebd89f75064a7662de6c5.bin",
+      "content_type": "font/woff2"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/js/navigation.js?ver=1790519675": {
+      "local_path": "assets/d571eafdfc0789ac8c11eb2e39613279185940f8c6e9501f5139c41b89706ae6.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/optimize-style.min.css?ver=1791127750": {
+      "local_path": "assets/91eec84ccf6d65f1e5a648e9cb699a8079943717395be13fe9d25a4ccf945ffd.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/template-parts/modules/hero-banner/hero-banner.min.css?ver=1791127750": {
+      "local_path": "assets/adb1f94b157b3d5a85c067ce9ec2fdce5c0ef9662767c10a73adc83e57a50eb7.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/themes/my-invitations/woocommerce.css?ver=1780755047": {
+      "local_path": "assets/d91ffde49a74613dc8d67089221269cea185cb1b293253ae1ddd9f24eb77f6dc.css",
+      "content_type": "text/css"
+    },
+    "https://myinvitations.io/wp-content/uploads/2025/04/cropped-android-chrome-512x512-1-180x180.png": {
+      "local_path": "assets/f22ff50873bbef23bb9df974efdea65d7bfbde5ec8cbc3928a5793233071cab0.png",
+      "content_type": "image/png"
+    },
+    "https://myinvitations.io/wp-content/uploads/2025/04/cropped-android-chrome-512x512-1-192x192.png": {
+      "local_path": "assets/425d330ef247feeeb5b6e1d7de83fa5ab08a99354bb75837a1cb88f02ccc1655.png",
+      "content_type": "image/png"
+    },
+    "https://myinvitations.io/wp-content/uploads/2025/04/cropped-android-chrome-512x512-1-32x32.png": {
+      "local_path": "assets/2a9b6907f6c1ff61744a24460e61680a151320b116f641810871dd6739848a72.png",
+      "content_type": "image/png"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/09/midnight-waltz-rosePetal.webp": {
+      "local_path": "assets/f7a9bf7e9d525a05ca66aa00722f447f2384c6c0472de6c145a097128cb18be0.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/Blush-Floral.webp": {
+      "local_path": "assets/dd86945267c9e0b4805c9c1cb15eb53b068afee05383a04b9f838fadf245c952.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/GOD.webp": {
+      "local_path": "assets/05051812fb609bf49254d5839160a75a6dd273f2b9ff873f622882ff097aedfd.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/Ornament.png": {
+      "local_path": "assets/d484d8509ae1d31d8de36ee8b45eae318d97b099c4b0749ab875c5d6ceb3cffd.png",
+      "content_type": "image/png"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/Seal-Badge.webp": {
+      "local_path": "assets/aa6823276d8520e1c18f484a48c84b1a273167e11e1b2d2d21d08b28f40cc1b5.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/ganesha-bg.webp": {
+      "local_path": "assets/383e8304e156a650df3feb04dd006d4f45293a8f29556b972f3fcf9b58993854.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/ganesha.webp": {
+      "local_path": "assets/f0d576ad8e88b41ef5a145667f1352f273f1515768351d99c72d831a392d8b4f.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/lantern.webp": {
+      "local_path": "assets/53620e4cf310d09bdd0afa4b4b1edfba1ada2b26eed9746da771c2f0ca5cba51.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/10/scratch-frame.webp": {
+      "local_path": "assets/127f1bb7467f5087128513af577f69622b3c525489b9cb6622e30cf4970847ee.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Banana-Leaf-1.webp": {
+      "local_path": "assets/e45c69520f36faeb4df2994ae080c04d4987f65e2b44fd6f786514dffbb51667.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Floral-Accents.webp": {
+      "local_path": "assets/50a4e485c457884b573717607425c452ecc7c5a8a7c7e889bdf1df67dfb9692b.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Golden-South.webp": {
+      "local_path": "assets/4613a8f27576e9ca2b7f5ce5a96dc4a861dca52773b41fb01936ecfc934c2ffc.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Mangala-v3.mp4": {
+      "local_path": "assets/124571e2695153dbc4dd8ba394c66de4a03db3632c1d3729936d39d48eb16904.bin",
+      "content_type": "video/mp4"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Ornate-Cream.webp": {
+      "local_path": "assets/6884a71445644025c83b6b6741c227d63813250ff4112bd88ff7d0259dbda687.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Palm-Border.webp": {
+      "local_path": "assets/e974dd0f0e1c02774234fa8aa0c08ee86607e0ebacdfd985acb7961a8ea04d79.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Polished-Gold-Three-Branch-Emblem.webp": {
+      "local_path": "assets/ecd42201419fd4e80b0c8831c67acd6efe68a9936dfec32a81ed72d2bd0c6c31.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Save-the-Date-Wedding-Invitation.webp": {
+      "local_path": "assets/8daede485db69149a04b315315faa91de0deb7f9d9dc0e8c4a12dd24b59d2bc1.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/South-Indian-Wedding-Mandap.webp": {
+      "local_path": "assets/4a4ae3b98815d8bcab35b69a5452f374080f752f69a6b0ad281433dcaafdcf08.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/Temple-Wedding.webp": {
+      "local_path": "assets/2f377b4e1da98e5c45d33d31d88ece3c9d17c3cae0f02b2d14919001cce5ef82.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/banana-leaf.webp": {
+      "local_path": "assets/28546ea359931e6f6cc5aeb0e22adf5cba46697918ceb894c6542984f5bfd13e.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/hero-poster-2.jpg": {
+      "local_path": "assets/a6146ab7f98715397e07c410fb3f08030d6553118cd5a948d6f4a6a170eacb70.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/maroon.webp": {
+      "local_path": "assets/251186d7b3fe25defd50b0fa5075928706a02c91849100dae8070a14a7211a75.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/motif.webp": {
+      "local_path": "assets/e0843401883239f0d01be7d508a76eee999ffda1b90ba137cce98263cce0b77d.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/tap-to-open.webp": {
+      "local_path": "assets/0fd6dbb0ec0b00682e826d58939cf5bfa51cc9be91de6426059c494928bd92f5.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/toran-head.webp": {
+      "local_path": "assets/851c209e7f3cd7c4701fc322350cf48bc4360e7d33d28d9a7c3534a6820c6402.webp",
+      "content_type": "image/webp"
+    },
+    "https://myinvitations.io/wp-content/uploads/2026/11/tum_tum_-_video_song__enemy__tamil.wav": {
+      "local_path": "assets/b018cda8a1fff114df3de45874f7d486b89ccf3037d43e698e700f9b69b3b8a6.bin",
+      "content_type": "application/octet-stream"
+    },
+    "https://myinvitations.io/wp-content/uploads/invitation-website-photos/bride-1794916904-jmJxr3Ge.jpg": {
+      "local_path": "assets/7c0c6a04cae6c3d2c2ce249fa783b3c048f94e3af60b3a0d432b832ecc640c98.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://myinvitations.io/wp-content/uploads/invitation-website-photos/gallery-1794916921-yTTVVBC7.png": {
+      "local_path": "assets/e9e92d0022ec8c67118ec363228cf4e3d76cf66219e932c7b1fd183905d83a1e.png",
+      "content_type": "image/png"
+    },
+    "https://myinvitations.io/wp-content/uploads/invitation-website-photos/groom-1794916896-4n4CNY36.jpg": {
+      "local_path": "assets/fc1dd214495a5952b92b29920900432c88fef63b9193657e3bbe54fdad5d9e5e.jpeg",
+      "content_type": "image/jpeg"
+    },
+    "https://myinvitations.io/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255": {
+      "local_path": "assets/fc774906082b59dedcfc55b8ef127783b6d056578ff4586a8ebbdb81bbe286f1.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": {
+      "local_path": "assets/5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89.js",
+      "content_type": "application/javascript"
+    },
+    "https://myinvitations.io/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+      "local_path": "assets/cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf.js",
+      "content_type": "application/javascript"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 30,
+    "meaningful_elements": 152,
+    "text_content_length": 3524
+  }
+}
